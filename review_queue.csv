@@ -1,0 +1,12 @@
+timestamp,company,score,tier,decision,subject,body
+2026-05-18T14:54:49.000412,Corvus Construction,70,HIGH,QUEUE,Quick question about Corvus's timecards,"Your safety-first approach is solid, but I'm guessing your field crews are still filling out paper timecards..."
+2026-05-18T15:37:17.203614,Faith Technologies Incorporated (FTI),55,MEDIUM,QUEUE,Payroll headaches at FTI's scale,"Hi,
+
+With FTI managing crews across multiple states on industrial projects, I'm guessing payroll prep is eating up hours each week—especially coordinating timecards across dispersed teams.
+
+FieldOps syncs GPS-tracked crew hours directly to QuickBooks, cutting payroll processing time by 70%. No more timecard disputes or manual data entry.
+
+Given your project scope, how much time does your team spend on payroll admin each pay cycle?
+
+Thanks,
+[Your name]"
